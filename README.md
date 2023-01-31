@@ -1,0 +1,1 @@
+Markup layout test for rozetka.ua
